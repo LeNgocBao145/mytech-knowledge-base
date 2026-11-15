@@ -1,0 +1,10 @@
+# Obsidian local/workspace state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/snapshots
+.obsidian/plugins/*/data.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
