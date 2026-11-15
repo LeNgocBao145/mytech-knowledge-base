@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "549664fc4fdae82b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e4900215a7e8c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd956b627ce9cd92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65b58f94213c38fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dacf5eeaa4c91cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bc7a33ef97afb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b42dae2ae8c2dbbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "915e129ee0e20985",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ab569031bbabbcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "70092a79fa616cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cd920614559048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0f22af280f25402c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sprite Atlas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ca5d4f0f71e423af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c596b938a5a16ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7844c2f5c692f207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sprite Atlas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a4bc7a33ef97afb0",
+  "lastOpenFiles": [
+    "Tile Pallette.md",
+    "Bug Note.md",
+    "Audio.md",
+    "Unity Function.md",
+    "Sound Effects (SFX).md",
+    "Software Bill of Materials (SBOM).md",
+    "Unity Attributes.md",
+    "Vector3.md",
+    "Coroutine.md",
+    "Tại sao lại phải dùng transform.SetParent(transform.root).md",
+    "Shader.md",
+    "Component.md",
+    "Canvas.md",
+    "Raycast.md",
+    "Use case lựa chọn giữa access modifier public và attribute SerializeField trước một biến private.md",
+    "Blend Tree.md",
+    "Application.persistentDataPath.md",
+    "System.Serializable.md",
+    "Sprite Atlas.md",
+    "Welcome.md"
+  ]
+}
